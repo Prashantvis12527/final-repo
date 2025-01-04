@@ -18,5 +18,6 @@ public class sumfunc {
         sum sum = new sum();
         sum.add(3,4,5,6,3,4,6,7,8);
         System.out.println("Something special in you which you dont have clue about it:");
-    }   
+        System.out.println("Say something: ")
+        }   
 }
