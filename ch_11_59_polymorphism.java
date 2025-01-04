@@ -104,6 +104,9 @@ public class ch_11_59_polymorphism {
         // Polymorphism: Only methods in `camera` can be called.
         
         Scanner sc = new Scanner(System.in);
+        String na = sc.toString();
+        System.out.println(na);
+
         cam.takesnap();
 
         // Type Casting: Accessing methods not part of the `camera` interface.
